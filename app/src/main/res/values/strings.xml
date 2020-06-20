@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">CovidApp</string>
+    <string name="recovered">Recovered</string>
+    <string name="_5_765">5,765</string>
+    <string name="death">Death</string>
+    <string name="_9_750">9,750</string>
+    <string name="statistics">Statistics</string>
+    <string name="my_country">My Country</string>
+    <string name="global">Global</string>
+    <string name="total">Total</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="affected">Affected</string>
+    <string name="_6_67_765">6,67,765</string>
+    <string name="active">Active</string>
+    <string name="_3_70_567">3,70,567</string>
+    <string name="spread_of_virus">Spread of virus</string>
+    <string name="see_all">See All</string>
+    <string name="serious">Serious</string>
+    <string name="_12_786">12,786</string>
+    <string name="todo">TODO</string>
+    <string name="wear_a_nface_mask">Wear a\nface mask</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="are_you_feeling_sick">Are you feeling sick?</string>
+    <string name="if_you_feel_sick_with_any_of_covid_19_symptoms_nplease_call_or_sms_us_immediately_for_help">If you feel sick with any of covid-19 symptoms\nplease call or SMS us immediately for help.</string>
+    <string name="prevention">Prevention</string>
+    <string name="avoid_close_ncontact">Avoid close\ncontact</string>
+    <string name="call_now">Call Now</string>
+    <string name="see_statistics">See Statistics</string>
+
 </resources>
